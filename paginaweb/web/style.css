@@ -1,0 +1,17 @@
+ *{
+                padding:0;
+                margin:0;
+                font-family:Arial;
+            }
+            a{
+                display:inline-block;
+                padding:10px;
+                border-radius: 1em;
+                background-color: #b8e7ff;
+                text-decoration: none;
+                color:black;
+            }
+            a:hover{
+                background-color: #a3cde3;
+
+            }
